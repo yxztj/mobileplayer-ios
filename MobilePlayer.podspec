@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author = { "Barış Şencan" => "baris.sncn@gmail.com",
                "Toygar Dündaralp" => "tdundaralp@gmail.com",
                "Cem Olcay" => "ccemolcay@gmail.com" }
-  s.source = { :git => "https://github.com/mobileplayer/mobileplayer-ios.git", :tag => s.version.to_s }
+  s.source = { :git => "https://github.com/yxztj/mobileplayer-ios.git" }
   s.platform = :ios, '8.0'
   s.requires_arc = true
   s.frameworks = 'UIKit', 'MediaPlayer'
